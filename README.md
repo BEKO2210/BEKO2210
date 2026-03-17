@@ -33,67 +33,91 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME — TERMINAL STYLE                     -->
+<!--                     ABOUT ME — FULLY ANIMATED                     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  About Me — <code>whoami</code>
+  About Me
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
+<!-- ANIMATED IDENTITY BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+</div>
 
-```js
-// ╔══════════════════════════════════════════════════════════════╗
-// ║                    BEKO2210.config.js                        ║
-// ╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Belkis+Aslani+%7C+BEKO2210;Full-Stack+Developer+%26+AI+Engineer;Music+Producer+%E2%80%94+Beat+to+the+Kiss" alt="Identity"/>
+</div>
 
-const BEKO2210 = {
-    identity: {
-        name:       "Belkis Aslani",
-        handle:     "BEKO2210",
-        alter_ego:  "Beat to the Kiss",
-        location:   "Freiberg am Neckar, Germany 🇩🇪",
-        timezone:   "Europe/Berlin (UTC+1)",
-    },
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=238636&center=true&vCenter=true&width=500&height=35&lines=%F0%9F%93%8D+Freiberg+am+Neckar%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA;%F0%9F%95%90+Timezone%3A+Europe%2FBerlin+(UTC%2B1);%F0%9F%92%BC+Independent+%2F+Open+Source" alt="Location"/>
+</div>
 
-    profession: {
-        title:      "Full-Stack Developer & AI Engineer",
-        experience: ["SAP EWM Logistics", "Motorsport Tech", "Web Dev"],
-        company:    "Independent / Open Source",
-        motto:      "Code. Music. AI. — No Limits. 🚀",
-    },
+<br/>
 
-    skills: {
-        languages:      ["Python", "TypeScript", "JavaScript", "HTML5", "CSS3", "Bash", "SQL"],
-        frontend:       ["Astro 4/5", "Tailwind CSS", "PWA", "Responsive Design"],
-        backend:        ["Node.js", "REST APIs", "FastAPI", "JSON/YAML"],
-        ai_ml:          ["LLM Fine-tuning", "Prompt Engineering", "RAG Systems",
-                         "Hugging Face", "Ollama", "Claude API", "Llama 3.1"],
-        devops:         ["GitHub Actions", "CI/CD", "Linux", "Docker", "Git"],
-        enterprise:     ["SAP EWM", "Warehouse Mgmt", "KPI Analytics", "DTM Logistics"],
-        creative:       ["Music Production", "German Rap", "Audio Engineering"],
-    },
+<!-- ANIMATED ROLE BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/SAP_EWM_Logistics-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Motorsport_Tech-E10600?style=for-the-badge&logo=ferrari&logoColor=white" alt="Motorsport"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Web_Development-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Dev"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+</div>
 
-    current_quests: [
-        "🌍 World Report      → Global Data Platform + API Release",
-        "📡 API Directory      → Free Public API Index for Devs",
-        "🔓 FOSS Alternatives  → 342+ Privacy-First Open Source Tools",
-        "🧠 Lyra Prompts       → 309 AI Prompts Across 10 Categories",
-        "🎵 Beat to the Kiss   → German Rap & Hip-Hop Production",
-    ],
+<br/>
 
-    philosophy: {
-        code:    "Open Source > Proprietary. Always.",
-        privacy: "Privacy is a human right, not a feature.",
-        mission: "Put Germany back on the tech innovation map 🇩🇪",
-    },
-};
+<!-- ANIMATED SKILL RINGS -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,bash,nodejs,fastapi&theme=dark&perline=8" alt="Core Skills"/>
+  </a>
+</div>
 
-export default BEKO2210;  // > npm run life --mode=unstoppable
-```
+<br/>
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,tailwind,docker,git,github,githubactions,linux,vscode&theme=dark&perline=8" alt="Tools & DevOps"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- AI & SPECIAL SKILLS ANIMATED BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/LLM_Fine--tuning-8B5CF6?style=for-the-badge&logoColor=white" alt="LLM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=for-the-badge&logoColor=white" alt="Prompt Eng"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG_Systems-10B981?style=for-the-badge&logoColor=white" alt="RAG"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</div>
+
+<br/>
+
+<!-- ANIMATED CURRENT QUESTS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=600&color=e3b341&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%8C%8D+World+Report+%E2%86%92+Global+Data+Platform+%2B+API+Release;%F0%9F%93%A1+API+Directory+%E2%86%92+Free+Public+API+Index+for+Devs;%F0%9F%94%93+FOSS+Alternatives+%E2%86%92+342%2B+Privacy-First+Tools;%F0%9F%A7%A0+Lyra+Prompts+%E2%86%92+309+AI+Prompts+%C3%97+10+Categories;%F0%9F%8E%B5+Beat+to+the+Kiss+%E2%86%92+German+Rap+%26+Hip-Hop" alt="Current Quests"/>
+</div>
+
+<br/>
+
+<!-- ANIMATED PHILOSOPHY -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=3" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&height=35&lines=%E2%9C%A6+Open+Source+%3E+Proprietary.+Always.;%E2%9C%A6+Privacy+is+a+human+right%2C+not+a+feature.;%E2%9C%A6+Put+Germany+back+on+the+tech+innovation+map+%F0%9F%87%A9%F0%9F%87%AA;%E2%9C%A6+Code.+Music.+AI.+%E2%80%94+No+Limits.+%F0%9F%9A%80" alt="Philosophy"/>
 </div>
 
 <br/>
@@ -511,17 +535,13 @@ Across 10 Categories
 
 <div align="center">
 
-```
- ♫ ♪ ─────────────────────────────────────── ♪ ♫
- │  Beyond the code, there's rhythm.           │
- │  German Rap & Hip-Hop                       │
- │  Crafted in Germany, felt worldwide. 🇩🇪     │
- ♫ ♪ ─────────────────────────────────────── ♪ ♫
-```
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=1DB954&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%8E%B5+Beyond+the+code%2C+there's+rhythm.;%F0%9F%8E%A4+German+Rap+%26+Hip-Hop;%F0%9F%87%A9%F0%9F%87%AA+Crafted+in+Germany%2C+felt+worldwide." alt="Music Typing"/>
 
-<a href="https://open.spotify.com/artist/6hC138hN2HuSbZqIwkyJRe?si=yXYSt75lTROKbj3eALKIgg"><img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/@beat-to-the-kiss"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <br/><br/>
+
+  <a href="https://open.spotify.com/artist/6hC138hN2HuSbZqIwkyJRe?si=yXYSt75lTROKbj3eALKIgg"><img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@beat-to-the-kiss"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 </div>
 
@@ -544,17 +564,21 @@ Across 10 Categories
 
 <div align="center">
 
-```
- ┌──────────────────────────────────────────────────────────────────┐
- │  🎵  Music Producer — "Beat to the Kiss" (German Rap & Hip-Hop) │
- │  🏁  Motorsport Logistics — AMG GT Racing / DTM Programs        │
- │  🤖  Fine-tuned Llama 3.1 8B — 87.64% F1-Score on German QA    │
- │  🔒  Privacy-first — FOSS over proprietary, always.             │
- │  🇩🇪  Based in Germany — putting DE back on the innovation map   │
- │  🎧  Audio Engineer & Beat Maker in my free time                │
- │  🌍  Building tools that respect your data & freedom            │
- └──────────────────────────────────────────────────────────────────┘
-```
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=750&height=40&lines=%F0%9F%8E%B5+Music+Producer+%E2%80%94+%22Beat+to+the+Kiss%22+(German+Rap+%26+Hip-Hop);%F0%9F%8F%81+Motorsport+Logistics+%E2%80%94+AMG+GT+Racing+%2F+DTM+Programs;%F0%9F%A4%96+Fine-tuned+Llama+3.1+8B+%E2%80%94+87.64%25+F1-Score+on+German+QA;%F0%9F%94%92+Privacy-first+%E2%80%94+FOSS+over+proprietary%2C+always.;%F0%9F%87%A9%F0%9F%87%AA+Based+in+Germany+%E2%80%94+putting+DE+back+on+the+map;%F0%9F%8E%A7+Audio+Engineer+%26+Beat+Maker+in+my+free+time;%F0%9F%8C%8D+Building+tools+that+respect+your+data+%26+freedom" alt="Fun Facts"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Music_Producer-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Music"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DTM_Motorsport-E10600?style=flat-square&logo=ferrari&logoColor=white" alt="DTM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Llama_3.1_8B-8B5CF6?style=flat-square&logo=meta&logoColor=white" alt="Llama"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOSS_Advocate-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="FOSS"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Made_in_Germany-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjExIiBmaWxsPSIjMDAwIi8+PHJlY3QgeT0iMTEiIHdpZHRoPSIzMiIgaGVpZ2h0PSIxMCIgZmlsbD0iI0QwMCIvPjxyZWN0IHk9IjIxIiB3aWR0aD0iMzIiIGhlaWdodD0iMTEiIGZpbGw9IiNGRkNFMDAiLz48L3N2Zz4=&logoColor=white" alt="Germany"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Audio_Engineer-FF6F00?style=flat-square&logo=audacity&logoColor=white" alt="Audio"/>
 
 </div>
 
