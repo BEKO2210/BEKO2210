@@ -22,7 +22,7 @@
   &nbsp;
   <a href="https://github.com/BEKO2210"><img src="https://img.shields.io/github/stars/BEKO2210?affiliations=OWNER&style=for-the-badge&color=e3b341&labelColor=0d1117&label=TOTAL+STARS&logo=github" alt="Stars"/></a>
   &nbsp;
-  <a href="https://github.com/BEKO2210"><img src="https://img.shields.io/badge/REPOS-20+-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Repos"/></a>
+  <a href="https://github.com/BEKO2210"><img src="https://img.shields.io/badge/REPOS-200+-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Repos"/></a>
 </div>
 
 <br/>
