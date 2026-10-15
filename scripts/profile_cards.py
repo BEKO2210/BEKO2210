@@ -106,7 +106,8 @@ def star_icon(x, y):
 
 
 def repo_card(r):
-    name = escape(r["name"])
+    name = r["name"] if len(r["name"]) <= 34 else r["name"][:33] + "…"
+    name = escape(name)
     desc = [escape(l) for l in wrap(describe(r), 52, 2)]
     lang = r.get("language") or ""
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" {FONT}>',
