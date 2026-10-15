@@ -256,16 +256,10 @@
 <div align="center">
 
 <!-- BUILDING:START -->
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/BEKO2210/global-audience-pulse"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-global-audience-pulse.svg" width="100%" alt="global-audience-pulse"/></a></td>
-<td width="50%"><a href="https://github.com/BEKO2210/statim"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-statim.svg" width="100%" alt="statim"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/BEKO2210/cage"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-cage.svg" width="100%" alt="cage"/></a></td>
-<td width="50%"><a href="https://github.com/BEKO2210/Binder"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Binder.svg" width="100%" alt="Binder"/></a></td>
-</tr>
-</table>
+<a href="https://github.com/BEKO2210/global-audience-pulse"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-global-audience-pulse.svg" width="400" alt="global-audience-pulse"/></a>
+<a href="https://github.com/BEKO2210/statim"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-statim.svg" width="400" alt="statim"/></a>
+<a href="https://github.com/BEKO2210/cage"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-cage.svg" width="400" alt="cage"/></a>
+<a href="https://github.com/BEKO2210/Binder"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Binder.svg" width="400" alt="Binder"/></a>
 <!-- BUILDING:END -->
 
 <sub>Automatisch aktualisiert: zuletzt bearbeitete öffentliche Projekte.</sub>
@@ -292,20 +286,12 @@
 <div align="center">
 
 <!-- FEATURED:START -->
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/BEKO2210/european-alternatives.eu-free-open-source"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-european-alternatives.eu-free-open-source.svg" width="100%" alt="european-alternatives.eu-free-open-source"/></a></td>
-<td width="50%"><a href="https://github.com/BEKO2210/MiroFish-DE"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-MiroFish-DE.svg" width="100%" alt="MiroFish-DE"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/BEKO2210/My_Dash"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-My_Dash.svg" width="100%" alt="My_Dash"/></a></td>
-<td width="50%"><a href="https://github.com/BEKO2210/Firstbrain"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Firstbrain.svg" width="100%" alt="Firstbrain"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/BEKO2210/Survival_kit"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Survival_kit.svg" width="100%" alt="Survival_kit"/></a></td>
-<td width="50%"><a href="https://github.com/BEKO2210/API_directory"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-API_directory.svg" width="100%" alt="API_directory"/></a></td>
-</tr>
-</table>
+<a href="https://github.com/BEKO2210/european-alternatives.eu-free-open-source"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-european-alternatives.eu-free-open-source.svg" width="400" alt="european-alternatives.eu-free-open-source"/></a>
+<a href="https://github.com/BEKO2210/MiroFish-DE"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-MiroFish-DE.svg" width="400" alt="MiroFish-DE"/></a>
+<a href="https://github.com/BEKO2210/My_Dash"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-My_Dash.svg" width="400" alt="My_Dash"/></a>
+<a href="https://github.com/BEKO2210/Firstbrain"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Firstbrain.svg" width="400" alt="Firstbrain"/></a>
+<a href="https://github.com/BEKO2210/Survival_kit"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Survival_kit.svg" width="400" alt="Survival_kit"/></a>
+<a href="https://github.com/BEKO2210/API_directory"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-API_directory.svg" width="400" alt="API_directory"/></a>
 <!-- FEATURED:END -->
 
 [![GitHub](https://img.shields.io/badge/View_All_Repos-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BEKO2210?tab=repositories)

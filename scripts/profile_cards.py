@@ -163,14 +163,10 @@ def stats_card(repos, user, contrib):
     return "\n".join(p)
 
 
-def grid(repos, cols=2):
-    cells = [f'<a href="{r["html_url"]}"><img src="{RAW}/repo-{r["name"]}.svg" width="100%" '
-             f'alt="{escape(r["name"])}"/></a>' for r in repos]
-    rows = []
-    for i in range(0, len(cells), cols):
-        tds = "".join(f'\n<td width="50%">{c}</td>' for c in cells[i:i + cols])
-        rows.append(f"<tr>{tds}\n</tr>")
-    return '<table>\n' + "\n".join(rows) + "\n</table>"
+def grid(repos):
+    # Feste Breite statt Tabelle: Desktop zeigt zwei nebeneinander, Handy eine pro Zeile.
+    return "\n".join(f'<a href="{r["html_url"]}"><img src="{RAW}/repo-{r["name"]}.svg" width="400" '
+                     f'alt="{escape(r["name"])}"/></a>' for r in repos)
 
 
 def replace_block(readme, key, content):
