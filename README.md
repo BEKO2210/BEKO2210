@@ -9,13 +9,15 @@
 
 <!-- MATRIX-STYLE TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=%3E+Initializing+BEKO2210.sys+...+%E2%9C%93+ONLINE;%3E+Loading+modules%3A+AI+%7C+FOSS+%7C+Privacy+%7C+Music+%F0%9F%8E%B5;%3E+Status%3A+Building+the+future+%E2%80%94+one+commit+at+a+time+%F0%9F%9A%80;%3E+Mission%3A+Pushing+Germany+back+to+the+top+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=50&lines=%3E+Initializing+BEKO2210.sys+...+%E2%9C%93+ONLINE;%3E+Loading+modules%3A+AI+%7C+FOSS+%7C+Privacy+%7C+Music+%F0%9F%8E%B5;%3E+Status%3A+Building+the+future+%E2%80%94+one+commit+at+a+time+%F0%9F%9A%80;%3E+Mission%3A+Pushing+Germany+back+to+the+top+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <!-- ANIMATED BADGES ROW -->
 <div align="center">
+  <a href="https://github.com/BEKO2210"><img src="https://img.shields.io/badge/%2B_Follow_@BEKO2210-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow BEKO2210 on GitHub"/></a>
+  <br/><br/>
   <a href="https://github.com/BEKO2210"><img src="https://komarev.com/ghpvc/?username=BEKO2210&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/></a>
   &nbsp;
   <a href="https://github.com/BEKO2210?tab=followers"><img src="https://img.shields.io/github/followers/BEKO2210?style=for-the-badge&color=238636&labelColor=0d1117&label=FOLLOWERS&logo=github" alt="Followers"/></a>
@@ -106,7 +108,7 @@
 
 <!-- ANIMATED CURRENT QUESTS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=600&color=e3b341&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%8C%8D+World+Report+%E2%86%92+Global+Data+Platform+%2B+API+Release;%F0%9F%93%A1+API+Directory+%E2%86%92+Free+Public+API+Index+for+Devs;%F0%9F%94%93+FOSS+Alternatives+%E2%86%92+342%2B+Privacy-First+Tools;%F0%9F%A7%A0+Lyra+Prompts+%E2%86%92+309+AI+Prompts+%C3%97+10+Categories;%F0%9F%8E%B5+Beat+to+the+Kiss+%E2%86%92+German+Rap+%26+Hip-Hop" alt="Current Quests"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=600&color=e3b341&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%94%93+European+Alternatives+%E2%86%92+600%2B+FOSS+Tools;%F0%9F%8C%8D+World.One+%E2%86%92+Self-updating+Global+Dashboard;%F0%9F%90%9F+MiroFish-DE+%E2%86%92+Multi-Agent+Simulation;%E2%9A%99%EF%B8%8F+Statim+%E2%86%92+C%2B%2B20+Decision+Engine;%F0%9F%8E%B5+Beat+to+the+Kiss+%E2%86%92+German+Rap+%26+Hip-Hop" alt="Current Quests"/>
 </div>
 
 <br/>
@@ -253,58 +255,20 @@
 
 <div align="center">
 
+<!-- BUILDING:START -->
 <table>
 <tr>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🟢-ACTIVE-238636?style=for-the-badge" alt="Active"/>
-
-**🌍 [World Report](https://github.com/BEKO2210/World_report)**
-
-Global Data Platform
-API Release Incoming
-
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=flat-square)](https://beko2210.github.io/World_report/)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🟢-ACTIVE-238636?style=for-the-badge" alt="Active"/>
-
-**📡 [API Directory](https://github.com/BEKO2210/API_directory)**
-
-Free Public API Index
-For All Developers
-
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=flat-square)](https://beko2210.github.io/API_directory/)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🟢-ACTIVE-238636?style=for-the-badge" alt="Active"/>
-
-**🔓 [FOSS Alternatives](https://github.com/BEKO2210/european-alternatives.eu-free-open-source)**
-
-342+ Privacy-First
-Open Source Tools
-
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=flat-square)](https://beko2210.github.io/european-alternatives.eu-free-open-source/)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🟢-ACTIVE-238636?style=for-the-badge" alt="Active"/>
-
-**🧠 [Lyra Prompts](https://github.com/BEKO2210/lyra-prompts)**
-
-309 AI Prompts
-Across 10 Categories
-
-[![Repo](https://img.shields.io/badge/▶_REPO-58a6ff?style=flat-square)](https://github.com/BEKO2210/lyra-prompts)
-
-</td>
+<td width="50%"><a href="https://github.com/BEKO2210/global-audience-pulse"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-global-audience-pulse.svg" width="100%" alt="global-audience-pulse"/></a></td>
+<td width="50%"><a href="https://github.com/BEKO2210/statim"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-statim.svg" width="100%" alt="statim"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/BEKO2210/cage"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-cage.svg" width="100%" alt="cage"/></a></td>
+<td width="50%"><a href="https://github.com/BEKO2210/Binder"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Binder.svg" width="100%" alt="Binder"/></a></td>
 </tr>
 </table>
+<!-- BUILDING:END -->
+
+<sub>Automatisch aktualisiert: zuletzt bearbeitete öffentliche Projekte.</sub>
 
 </div>
 
@@ -327,73 +291,24 @@ Across 10 Categories
 
 <div align="center">
 
+<!-- FEATURED:START -->
 <table>
 <tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/World_report">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=World_report&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="World Report"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/API_directory">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=API_directory&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="API Directory"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/european-alternatives.eu-free-open-source">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=european-alternatives.eu-free-open-source&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="FOSS Alternatives"/>
-</a>
-</td>
-
+<td width="50%"><a href="https://github.com/BEKO2210/european-alternatives.eu-free-open-source"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-european-alternatives.eu-free-open-source.svg" width="100%" alt="european-alternatives.eu-free-open-source"/></a></td>
+<td width="50%"><a href="https://github.com/BEKO2210/MiroFish-DE"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-MiroFish-DE.svg" width="100%" alt="MiroFish-DE"/></a></td>
 </tr>
 <tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/lyra-prompts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=lyra-prompts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="Lyra Prompts"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/FuelFinder-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=FuelFinder-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="FuelFinder Pro"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/Prompt_Copyrighting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=Prompt_Copyrighting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="Prompt Copyrighting"/>
-</a>
-</td>
-
+<td width="50%"><a href="https://github.com/BEKO2210/My_Dash"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-My_Dash.svg" width="100%" alt="My_Dash"/></a></td>
+<td width="50%"><a href="https://github.com/BEKO2210/Firstbrain"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Firstbrain.svg" width="100%" alt="Firstbrain"/></a></td>
 </tr>
 <tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/Survival_kit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=Survival_kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="Survival Kit"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/BEKO2210/Prepper_Log">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BEKO2210&repo=Prepper_Log&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636" alt="PrepTrack"/>
-</a>
-</td>
-
-<td align="center" width="33%">
-
-  **More coming soon...**
-
-  [![GitHub](https://img.shields.io/badge/View_All_Repos-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/BEKO2210?tab=repositories)
-
-</td>
-
+<td width="50%"><a href="https://github.com/BEKO2210/Survival_kit"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-Survival_kit.svg" width="100%" alt="Survival_kit"/></a></td>
+<td width="50%"><a href="https://github.com/BEKO2210/API_directory"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-API_directory.svg" width="100%" alt="API_directory"/></a></td>
 </tr>
 </table>
+<!-- FEATURED:END -->
+
+[![GitHub](https://img.shields.io/badge/View_All_Repos-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BEKO2210?tab=repositories)
 
 </div>
 
@@ -414,32 +329,9 @@ Across 10 Categories
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30">
 </h2>
 
-<!-- STATS CARDS ROW -->
+<!-- STATS CARD (selbst erzeugt, siehe scripts/profile_cards.py) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEKO2210&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&ring_color=238636" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEKO2210&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
-</div>
-
-<br/>
-
-<!-- STREAK STATS -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BEKO2210&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=238636&fire=e3b341&currStreakLabel=58a6ff" width="700"/>
-</div>
-
-<br/>
-
-<!-- TROPHY ROW -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BEKO2210&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEKO2210&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=238636&color=58a6ff&line=238636&point=e3b341" width="100%"/>
+  <img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/stats.svg" width="100%" alt="GitHub-Statistik"/>
 </div>
 
 <br/>
@@ -461,9 +353,9 @@ Across 10 Categories
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BEKO2210/BEKO2210/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BEKO2210/BEKO2210/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake eating contributions" src="https://github.com/BEKO2210/BEKO2210/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
@@ -487,6 +379,8 @@ Across 10 Categories
 <div align="center">
 
 <!-- ROW 1: Primary Links -->
+<a href="https://github.com/BEKO2210"><img src="https://img.shields.io/badge/Follow_on_GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+&nbsp;
 <a href="https://beko2210.github.io/My-table-of-contents-/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/></a>
 &nbsp;
 <a href="https://mastodon.social/@BEKO2210"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
