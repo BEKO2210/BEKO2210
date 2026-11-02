@@ -29,6 +29,22 @@
 
 <br/>
 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS — FREE, PRIVATE, OFFLINE          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <a href="https://github.com/BEKO2210"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/hero.webp" width="100%" alt="Belkis Aslani – free, private, offline tools"></a>
+  <br/>
+  <a href="https://github.com/BEKO2210/spyhound"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-spyhound.webp" width="32%" alt="Spyhound"></a> <a href="https://github.com/BEKO2210/european-alternatives.eu-free-open-source"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-european-alternatives.webp" width="32%" alt="european-alternatives"></a> <a href="https://github.com/BEKO2210/nibra"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-nibra.webp" width="32%" alt="Nibra"></a>
+  <a href="https://github.com/BEKO2210/Prepper_Log"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-preptrack.webp" width="32%" alt="PrepTrack"></a> <a href="https://github.com/BEKO2210/rechenwerk"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-rechenwerk.webp" width="32%" alt="Rechenwerk"></a> <a href="https://github.com/BEKO2210/foldpage-android"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-foldpage.webp" width="32%" alt="FoldPage"></a>
+  <a href="https://github.com/BEKO2210/cricket-brain"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-cricket-brain.webp" width="32%" alt="cricket-brain"></a> <a href="https://github.com/BEKO2210/statim"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-statim.webp" width="32%" alt="statim"></a> <a href="https://github.com/BEKO2210/motion-studio"><img src="https://raw.githubusercontent.com/BEKO2210/.github/main/sponsors/card-motion-studio.webp" width="32%" alt="motion-studio"></a>
+  <br/><br/>
+  <a href="https://github.com/sponsors/BEKO2210"><img src="https://img.shields.io/badge/%E2%99%A5_Sponsor_my_work-FFB547?style=for-the-badge&labelColor=0A0E14&logo=githubsponsors&logoColor=FFB547" alt="Sponsor BEKO2210 on GitHub"/></a>
+</div>
+
+<br/>
+
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
