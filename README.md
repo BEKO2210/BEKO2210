@@ -272,10 +272,10 @@
 <div align="center">
 
 <!-- BUILDING:START -->
+<a href="https://github.com/BEKO2210/ordo"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-ordo.svg" width="400" alt="ordo"/></a>
+<a href="https://github.com/BEKO2210/camhound-legal"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-camhound-legal.svg" width="400" alt="camhound-legal"/></a>
 <a href="https://github.com/BEKO2210/pimp-my-kebap"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-pimp-my-kebap.svg" width="400" alt="pimp-my-kebap"/></a>
 <a href="https://github.com/BEKO2210/spyhound"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-spyhound.svg" width="400" alt="spyhound"/></a>
-<a href="https://github.com/BEKO2210/alia"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-alia.svg" width="400" alt="alia"/></a>
-<a href="https://github.com/BEKO2210/holocortex"><img src="https://raw.githubusercontent.com/BEKO2210/BEKO2210/output/repo-holocortex.svg" width="400" alt="holocortex"/></a>
 <!-- BUILDING:END -->
 
 <sub>Automatisch aktualisiert: zuletzt bearbeitete öffentliche Projekte.</sub>
